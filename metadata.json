@@ -1,0 +1,7 @@
+{
+  "name": "Calorie Cam 5",
+  "description": "AI-powered food analysis and calorie tracker.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
